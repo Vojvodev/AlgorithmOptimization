@@ -1,4 +1,5 @@
 # Arhitektura
-Пројектни задатак урађен 2023. године на предмету Архитектура рачунара.
+Projektni zadatak uradjen 2023. godine na predmetu Arhitektura računara.
 
-Оптимизација алгоритма употребом  ,,openMP''  ,,SIMD''  и сличних приступа.
+Optimizacija jednostavnog algoritma za pronalaženje količine prostih brojeva u zadatim intervalima (složenost O(n^2))
+upotrebom SIMD i OpenMP mehanizama.
